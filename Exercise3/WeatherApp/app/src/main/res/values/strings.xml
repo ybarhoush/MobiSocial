@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="mTemperatureLabel">Temperature Label</string>
+    <string name="mWeatherLabel">Weather Label</string>
+    <string name="mCityLabel">City Label</string>
+</resources>

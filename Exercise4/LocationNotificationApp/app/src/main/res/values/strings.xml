@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Location Notification App</string>
+    <string name="textView1_longitude">Longitude</string>
+    <string name="textView_latitude">Latitude</string>
+    <string name="button_storeLocationAndMsg">Store Current Location + Msg</string>
+    <string name="button1_emptyLocationTable">Delete All Locations</string>
+    <string name="button2_withinCurrent">Test within Current</string>
+    <string name="enter_msg">Enter Msg</string>
+</resources>

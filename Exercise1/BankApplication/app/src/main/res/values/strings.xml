@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bank Application</string>
+
+    <string name="editText_username">username</string>
+    <string name="editText_password">password</string>
+    <string name="button_login">login</string>
+
+    <string name="textView_account">account</string>
+    <string name="textView_myInformation">my information</string>
+    <string name="textView_bankDetails">bank details</string>
+
+    <string name="textView_payments">payments</string>
+    <string name="textView_newPayment">new payment</string>
+    <string name="textView_history">history</string>
+
+
+
+    <string name="textView_accountNewPayment">new payment</string>
+
+    <string name="textView_recName">Recipient name:</string>
+    <string name="editText_recName">Recipient name</string>
+
+    <string name="textView_recAccount">Recipient account:</string>
+    <string name="editText_recAccount">Recipient account</string>
+
+    <string name="textView_paymentInfo">Payment information:</string>
+
+    <string name="textView_date">date</string>
+    <string name="editText_date">date</string>
+
+    <string name="textView_amount">amount</string>
+    <string name="editText_amount">amount</string>
+
+    <string name="button_accept">accept</string>
+</resources>

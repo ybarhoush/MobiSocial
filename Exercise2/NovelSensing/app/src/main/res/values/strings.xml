@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Novel Sensing</string>
+    <string name="textView_onSensorValue">onSensorValue</string>
+    <string name="textView_onSensorStatus">onSensorStatus</string>
+</resources>
